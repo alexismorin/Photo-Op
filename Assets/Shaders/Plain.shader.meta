@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5415709bf2bde5f44bb6ddcc2f43709e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _A_Cliff: {fileID: 2800000, guid: 64137b251652c4c459371e8f1b62b9bb, type: 3}
+  - _A_Grass: {fileID: 2800000, guid: 0c9f81ffe32191142accad6c3fd3b512, type: 3}
+  - _A_Sand: {fileID: 2800000, guid: b8343eb604bdf1a4b8741dee32283213, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
